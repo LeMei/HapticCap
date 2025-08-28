@@ -1,6 +1,6 @@
-# 📌 HapticCap: A Multimodal Dataset and Task for Understanding User Experience of Vibration Haptic Signals (Findings of EMNLP2025)
+# 📌 HapticCap: A Multimodal Dataset and Task for Understanding User Experience of Vibration Haptic Signals
 
-Arxiv: https://arxiv.org/pdf/2507.13318?  
+Arxiv: https://arxiv.org/pdf/2507.13318? (Findings of EMNLP2025) 
 
 ---
 
