@@ -21,8 +21,21 @@ It provides a new resource for research at the intersection of **haptics, text, 
 
 ---
 
+Google drive:
+
+Haptic Vibration Signals:
+
+Human Descriptions:
+
+
 ## 🧩 Tasks
 - Haptic-caption retrieval
+
+- Training set:
+
+- Valid set:
+
+- Test set:
 
 ## 🧩 Models
 
