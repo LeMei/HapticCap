@@ -28,9 +28,11 @@ It provides a new resource for research at the intersection of **haptics, text, 
 
 Google drive:
 
-Haptic Vibration Signals: https://drive.google.com/drive/folders/1xylMC-EFswTc3adcc6rAzyFsXLSmVweg?usp=drive_link
+Haptic Vibration Signals: <https://drive.google.com/drive/folders/1xylMC-EFswTc3adcc6rAzyFsXLSmVweg?usp=drive_link>
 
-Human Descriptions: https://drive.google.com/drive/folders/1ovlIbfJecXAq0TbItmrRl5dVV7OCCQzB?usp=drive_link
+Human Descriptions: https: <https://drive.google.com/drive/folders/1ovlIbfJecXAq0TbItmrRl5dVV7OCCQzB?usp=drive_link>
+
+or find the data in: <https://huggingface.co/datasets/GuiminHu/HapticCap>
 
 
 ## 🧩 Tasks
@@ -39,7 +41,7 @@ haptic signal as the query and the descriptions as the target documents.
 
 - Training, Valid Test set:
 
-https://drive.google.com/drive/folders/1PfM2fjIHFDx1PtWADJHwo3TM2SRbp2tL?usp=drive_link
+<https://drive.google.com/drive/folders/1PfM2fjIHFDx1PtWADJHwo3TM2SRbp2tL?usp=drive_link>
 
 ## 🧩 Models
 We design supervised contrastive learning framework that aims to pull the clusters of points belonging to the same class together in an embedding space and simultaneously
