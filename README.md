@@ -39,9 +39,9 @@ or find the data in: <https://huggingface.co/datasets/GuiminHu/HapticCap>
 - Haptic-caption retrieval: Its objective is to retrieve the textual descriptions of three categories that correspond to a given haptic signal, using the
 haptic signal as the query and the descriptions as the target documents.
 
-- Training, Valid Test set:
+- Training, Valid Test set in Huggingface:
 
-<https://drive.google.com/drive/folders/1PfM2fjIHFDx1PtWADJHwo3TM2SRbp2tL?usp=drive_link>
+https://huggingface.co/datasets/GuiminHu/HapticCap
 
 ## 🧩 Models
 We design supervised contrastive learning framework that aims to pull the clusters of points belonging to the same class together in an embedding space and simultaneously
